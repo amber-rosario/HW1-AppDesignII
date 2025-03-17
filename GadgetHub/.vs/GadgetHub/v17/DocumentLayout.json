@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rosamb\\source\\repos\\GadgetHub\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F37854DE-00C7-4702-A644-022B80EDE216}|GadgetHub.WebUI\\GadgetHub.WebUI.csproj|c:\\users\\rosamb\\source\\repos\\gadgethub\\gadgethub.webui\\infrastructure\\ninjectdependencyresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F37854DE-00C7-4702-A644-022B80EDE216}|GadgetHub.WebUI\\GadgetHub.WebUI.csproj|solutionrelative:gadgethub.webui\\infrastructure\\ninjectdependencyresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F37854DE-00C7-4702-A644-022B80EDE216}|GadgetHub.WebUI\\GadgetHub.WebUI.csproj|c:\\users\\rosamb\\source\\repos\\gadgethub\\gadgethub.webui\\app_start\\ninjectwebcommon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F37854DE-00C7-4702-A644-022B80EDE216}|GadgetHub.WebUI\\GadgetHub.WebUI.csproj|solutionrelative:gadgethub.webui\\app_start\\ninjectwebcommon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F37854DE-00C7-4702-A644-022B80EDE216}|GadgetHub.WebUI\\GadgetHub.WebUI.csproj|c:\\users\\rosamb\\source\\repos\\gadgethub\\gadgethub.webui\\controllers\\gadgetcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F37854DE-00C7-4702-A644-022B80EDE216}|GadgetHub.WebUI\\GadgetHub.WebUI.csproj|solutionrelative:gadgethub.webui\\controllers\\gadgetcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F37854DE-00C7-4702-A644-022B80EDE216}|GadgetHub.WebUI\\GadgetHub.WebUI.csproj|c:\\users\\rosamb\\source\\repos\\gadgethub\\gadgethub.webui\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F37854DE-00C7-4702-A644-022B80EDE216}|GadgetHub.WebUI\\GadgetHub.WebUI.csproj|solutionrelative:gadgethub.webui\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD8856AD-7C4F-497F-90AF-E041B115D4A0}|GadgetHub.Domain\\GadgetHub.Domain.csproj|c:\\users\\rosamb\\source\\repos\\gadgethub\\gadgethub.domain\\abstract\\igadgetrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD8856AD-7C4F-497F-90AF-E041B115D4A0}|GadgetHub.Domain\\GadgetHub.Domain.csproj|solutionrelative:gadgethub.domain\\abstract\\igadgetrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD8856AD-7C4F-497F-90AF-E041B115D4A0}|GadgetHub.Domain\\GadgetHub.Domain.csproj|c:\\users\\rosamb\\source\\repos\\gadgethub\\gadgethub.domain\\entities\\gadget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD8856AD-7C4F-497F-90AF-E041B115D4A0}|GadgetHub.Domain\\GadgetHub.Domain.csproj|solutionrelative:gadgethub.domain\\entities\\gadget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F37854DE-00C7-4702-A644-022B80EDE216}|GadgetHub.WebUI\\GadgetHub.WebUI.csproj|c:\\users\\rosamb\\source\\repos\\gadgethub\\gadgethub.webui\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F37854DE-00C7-4702-A644-022B80EDE216}|GadgetHub.WebUI\\GadgetHub.WebUI.csproj|solutionrelative:gadgethub.webui\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F37854DE-00C7-4702-A644-022B80EDE216}|GadgetHub.WebUI\\GadgetHub.WebUI.csproj|c:\\users\\rosamb\\source\\repos\\gadgethub\\gadgethub.webui\\views\\gadget\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F37854DE-00C7-4702-A644-022B80EDE216}|GadgetHub.WebUI\\GadgetHub.WebUI.csproj|solutionrelative:gadgethub.webui\\views\\gadget\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD8856AD-7C4F-497F-90AF-E041B115D4A0}|GadgetHub.Domain\\GadgetHub.Domain.csproj|c:\\users\\rosamb\\source\\repos\\gadgethub\\gadgethub.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD8856AD-7C4F-497F-90AF-E041B115D4A0}|GadgetHub.Domain\\GadgetHub.Domain.csproj|solutionrelative:gadgethub.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IGadgetRepository.cs",
+              "DocumentMoniker": "C:\\Users\\rosamb\\source\\repos\\GadgetHub\\GadgetHub.Domain\\Abstract\\IGadgetRepository.cs",
+              "RelativeDocumentMoniker": "GadgetHub.Domain\\Abstract\\IGadgetRepository.cs",
+              "ToolTip": "C:\\Users\\rosamb\\source\\repos\\GadgetHub\\GadgetHub.Domain\\Abstract\\IGadgetRepository.cs",
+              "RelativeToolTip": "GadgetHub.Domain\\Abstract\\IGadgetRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T01:53:03.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NinjectDependencyResolver.cs",
+              "DocumentMoniker": "C:\\Users\\rosamb\\source\\repos\\GadgetHub\\GadgetHub.WebUI\\Infrastructure\\NinjectDependencyResolver.cs",
+              "RelativeDocumentMoniker": "GadgetHub.WebUI\\Infrastructure\\NinjectDependencyResolver.cs",
+              "ToolTip": "C:\\Users\\rosamb\\source\\repos\\GadgetHub\\GadgetHub.WebUI\\Infrastructure\\NinjectDependencyResolver.cs",
+              "RelativeToolTip": "GadgetHub.WebUI\\Infrastructure\\NinjectDependencyResolver.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T01:38:06.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\rosamb\\source\\repos\\GadgetHub\\GadgetHub.WebUI\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "GadgetHub.WebUI\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\rosamb\\source\\repos\\GadgetHub\\GadgetHub.WebUI\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "GadgetHub.WebUI\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-17T02:37:30.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\rosamb\\source\\repos\\GadgetHub\\GadgetHub.WebUI\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "GadgetHub.WebUI\\App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\rosamb\\source\\repos\\GadgetHub\\GadgetHub.WebUI\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "GadgetHub.WebUI\\App_Start\\RouteConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T02:43:18.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Gadget.cs",
+              "DocumentMoniker": "C:\\Users\\rosamb\\source\\repos\\GadgetHub\\GadgetHub.Domain\\Entities\\Gadget.cs",
+              "RelativeDocumentMoniker": "GadgetHub.Domain\\Entities\\Gadget.cs",
+              "ToolTip": "C:\\Users\\rosamb\\source\\repos\\GadgetHub\\GadgetHub.Domain\\Entities\\Gadget.cs",
+              "RelativeToolTip": "GadgetHub.Domain\\Entities\\Gadget.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T01:48:55.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NinjectWebCommon.cs",
+              "DocumentMoniker": "C:\\Users\\rosamb\\source\\repos\\GadgetHub\\GadgetHub.WebUI\\App_Start\\NinjectWebCommon.cs",
+              "RelativeDocumentMoniker": "GadgetHub.WebUI\\App_Start\\NinjectWebCommon.cs",
+              "ToolTip": "C:\\Users\\rosamb\\source\\repos\\GadgetHub\\GadgetHub.WebUI\\App_Start\\NinjectWebCommon.cs",
+              "RelativeToolTip": "GadgetHub.WebUI\\App_Start\\NinjectWebCommon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T01:35:23.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GadgetController.cs",
+              "DocumentMoniker": "C:\\Users\\rosamb\\source\\repos\\GadgetHub\\GadgetHub.WebUI\\Controllers\\GadgetController.cs",
+              "RelativeDocumentMoniker": "GadgetHub.WebUI\\Controllers\\GadgetController.cs",
+              "ToolTip": "C:\\Users\\rosamb\\source\\repos\\GadgetHub\\GadgetHub.WebUI\\Controllers\\GadgetController.cs",
+              "RelativeToolTip": "GadgetHub.WebUI\\Controllers\\GadgetController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T02:29:20.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "C:\\Users\\rosamb\\source\\repos\\GadgetHub\\GadgetHub.WebUI\\Views\\Gadget\\List.cshtml",
+              "RelativeDocumentMoniker": "GadgetHub.WebUI\\Views\\Gadget\\List.cshtml",
+              "ToolTip": "C:\\Users\\rosamb\\source\\repos\\GadgetHub\\GadgetHub.WebUI\\Views\\Gadget\\List.cshtml",
+              "RelativeToolTip": "GadgetHub.WebUI\\Views\\Gadget\\List.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-17T02:36:39.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\rosamb\\source\\repos\\GadgetHub\\GadgetHub.Domain\\Class1.cs",
+              "RelativeDocumentMoniker": "GadgetHub.Domain\\Class1.cs",
+              "ToolTip": "C:\\Users\\rosamb\\source\\repos\\GadgetHub\\GadgetHub.Domain\\Class1.cs",
+              "RelativeToolTip": "GadgetHub.Domain\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T01:22:35.632Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

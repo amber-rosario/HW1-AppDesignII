@@ -1,0 +1,17 @@
+﻿@using GadgetHub.Domain.Entities
+﻿@model IEnumerable<GadgetHub.Domain.Entities.Gadget>
+
+@{
+    ViewBag.Title = "Gadget Catalog";
+}
+
+@foreach(var g in Model)
+{
+    <div style="border: 1px solid #ccc; padding: 10px; margin-bottom: 10px; width: 50%;">
+        <h3>Name = @g.Name</h3>
+        <p><strong>Brand = </strong> @g.Brand</p>
+        <p><strong>Price = </strong> @g.Price</p>
+        <p><strong>Description = </strong> @g.Description</p>
+        <p><strong>Category = </strong> @g.Category</p>
+    </div>
+}
